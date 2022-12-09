@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab03_1097</string>
+    <string-array name="tip_mamaliga">
+        <item>Mamaliga_cu_branza</item>
+        <item>Mamaliga_cu_smantana</item>
+        <item>Mamaliga_cu_branza_si_smantana</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seminar03_1086</string>
+
+    <string-array name="facultate">
+        <item>CSIE</item>
+        <item>Marketing</item>
+        <item>Management</item>
+    </string-array>
+</resources>
